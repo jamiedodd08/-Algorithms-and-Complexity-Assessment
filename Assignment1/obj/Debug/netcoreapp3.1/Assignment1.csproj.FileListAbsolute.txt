@@ -1,0 +1,24 @@
+E:\University Work\Algorithms and Complexity\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csprojAssemblyReference.cache
+E:\University Work\Algorithms and Complexity\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+E:\University Work\Algorithms and Complexity\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+E:\University Work\Algorithms and Complexity\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.exe
+E:\University Work\Algorithms and Complexity\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+E:\University Work\Algorithms and Complexity\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+E:\University Work\Algorithms and Complexity\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+E:\University Work\Algorithms and Complexity\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.dll
+E:\University Work\Algorithms and Complexity\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+E:\University Work\Algorithms and Complexity\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.dll
+E:\University Work\Algorithms and Complexity\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+D:\Documents\University_Work\Year1\Algorithms and Complexity\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.exe
+D:\Documents\University_Work\Year1\Algorithms and Complexity\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+D:\Documents\University_Work\Year1\Algorithms and Complexity\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+D:\Documents\University_Work\Year1\Algorithms and Complexity\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+D:\Documents\University_Work\Year1\Algorithms and Complexity\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.dll
+D:\Documents\University_Work\Year1\Algorithms and Complexity\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+D:\Documents\University_Work\Year1\Algorithms and Complexity\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csprojAssemblyReference.cache
+D:\Documents\University_Work\Year1\Algorithms and Complexity\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+D:\Documents\University_Work\Year1\Algorithms and Complexity\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+D:\Documents\University_Work\Year1\Algorithms and Complexity\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
+D:\Documents\University_Work\Year1\Algorithms and Complexity\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.dll
+D:\Documents\University_Work\Year1\Algorithms and Complexity\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+D:\Documents\University_Work\Year1\Algorithms and Complexity\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache
